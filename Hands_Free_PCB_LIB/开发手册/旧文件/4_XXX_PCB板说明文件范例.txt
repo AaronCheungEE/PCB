@@ -1,0 +1,29 @@
+PCB 文件名：	Hands_free_Motordrive.PrjPCB
+
+PCB lib版本号：	Version1.0X
+
+固定间距方式：	1> 	2mm铜柱孔 尺寸：30*44 mm
+
+详细说明：
+	电源：5-35V输入
+
+	功率等级[L M S]：L	
+
+	功能口：
+		信号口：Hands_Free_MOTOR
+		输出口：调试 M+ M-
+			调试 ENCORD: A B GND VCC
+			Hands_Free_MAXON_MOLEX6P
+
+	保护措施：
+		续流二极管
+
+	性能简述：
+		几A的电机驱动能力。
+
+	功能简述：
+		电机驱动，提供2路PWM正反，使能功能引脚。
+
+负责人：	陈映冰	
+联系方式：	［QQ］576709718
+日期：		2016/01/09
